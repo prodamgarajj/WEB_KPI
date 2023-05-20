@@ -1,2 +1,6 @@
-# WEB_KPI
-Repo for web class at KPI
+ПІБ: Войтович Гліб Олександровича
+Група: КВ-02
+Назва лабораторної роботи: Побудова робочого Web-інтерфейсу користувача
+Завдання: Розробити функціональність для статичних сторінок Web-додатку першої лабораторної роботи із використанням шаблону MVC.
+
+URL на звіт: https://docs.google.com/document/d/1hELorqzM6w5PVv_ozkI7IbeJoKd3vP2ZVEZnzHWrW84/edit?usp=sharing
